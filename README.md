@@ -25,7 +25,7 @@ Users can ask questions about a video, and the chatbot provides meaningful answe
 * **OpenAI / LLM APIs**
 * **YouTube Transcript API**
 * **Streamlit (Frontend)**
-* **LangChain **
+* LangChain 
 
 ---
 
@@ -72,8 +72,6 @@ streamlit run app.py
 
 ---
 
-##  Demo
 
-(Add screenshots or demo GIF here)
 
 
